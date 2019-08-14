@@ -1,7 +1,7 @@
 # Twitter-Wordcloud
-A Twitter API Datavisualization. Shows a Wordcloud of the latest Tweets of a given search Term. Using the twitter Developer API. Written in Processing.
+Twitter API datavisualization. Shows a wordcloud of the latest tweets of a given search term. Using the twitter developer API. Written in Processing.
 
 ![Startscreen](../master/j_TwitterAPI/data/Screen01.png)
-Search Twitter
+Search Twitter.
 ![Cloud](../master/j_TwitterAPI/data/Screen02.png)
-Tweets Displayed as Word Cloud. The Size of a Word depends on its TF_IDF Score. Click on Text to show the related Tweed.
+Tweets displayed as word cloud. The size of a word depends on its TF_IDF score. Click on text to show the related tweed.
