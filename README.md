@@ -1,5 +1,5 @@
 # Twitter-Wordcloud
-Twitter API datavisualization. Shows a wordcloud of the latest tweets of a given search term. Using the twitter developer API. Written in Processing.
+Twitter API datavisualization. Shows a wordcloud of the latest tweets of any given search term. Using the Twitter developer API. Written in Processing.
 
 ![Startscreen](../master/j_TwitterAPI/data/Screen01.png)
 Search Twitter.
